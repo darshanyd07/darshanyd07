@@ -1,4 +1,4 @@
-### Hello Darshan Here 👋
+### Hello Darshan Is Here 👋
 
 
 - 🌱 I’m currently learning Java.
@@ -6,5 +6,5 @@
 - 💬 Ask me about Core Java,HTML,CSS,JQuery.
 - 📫 How to reach me: Instgram Id :- chmap_d_09...
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I Love Java Programming But did'nt get Job In Java...
+- ⚡ Fun fact: I spend almost 2 hours in gym every day.
 
